@@ -1,3 +1,6 @@
+# misc
+undodir
+
 # Compiled Lua sources
 luac.out
 
